@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "astro dev"
+  },
+  
   "dependencies": {
     "node": "^22.0.0"
   }
