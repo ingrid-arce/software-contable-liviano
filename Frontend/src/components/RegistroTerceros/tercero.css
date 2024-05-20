@@ -1,11 +1,19 @@
-.formTerceros{
-    border: solid 1px rgb(0, 0, 0);
+.formTerceros {
+  border: solid 1px rgb(0, 0, 0);
+  margin: 5%;
 }
-.claseGrandeFormularios{
+.claseGrandeFormularios {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.inputTerceros {
+  width: 80vh;
+}
+.botonContinuar{
+    background-color: #172E73;
+    color: white;
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-input{
-    width: 100vh;
+    justify-content: center;
+    align-items: center;
 }
