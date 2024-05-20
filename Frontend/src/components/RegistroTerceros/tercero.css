@@ -1,0 +1,11 @@
+.formTerceros{
+    border: solid 1px rgb(0, 0, 0);
+}
+.claseGrandeFormularios{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+input{
+    width: 100vh;
+}
